@@ -1,1 +1,2 @@
-this is to stash
+this is to stash.
+trying reset commands.
