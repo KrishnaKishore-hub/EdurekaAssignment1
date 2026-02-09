@@ -1,1 +1,2 @@
 Trying deletion concept.
+Merge concept.
