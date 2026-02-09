@@ -2,3 +2,4 @@
 this is to push from local.
 again pushing to remote.
 Trying conflict fix.
+Check the fetch command.
