@@ -1,2 +1,4 @@
 Adding b1 branch.
-trying to pull from local..
+trying to pull from local...
+Pull was successfull from github.
+Trying push from local.
